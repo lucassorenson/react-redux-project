@@ -6,9 +6,9 @@
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/lucassorenson/react-redux-project.git",
+  "homepage": "https://lucassorenson.github.io/react-redux-project.git",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^2.1.1",
